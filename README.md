@@ -11,11 +11,15 @@ The dataset was created with 74 videos from 5 participants making 10 gestures fr
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/0564657f-d946-4aac-914f-2e50b783107a">
 
 ### Examples
-** STANDBY to START ENGINE (crank) **
+
+STANDBY to START ENGINE (crank)
+
 ![standby_crank](https://github.com/user-attachments/assets/44d6d773-db16-47c4-bae5-a3c068260825)
 
-** MOVE **
+MOVE
+
 ![move](https://github.com/user-attachments/assets/7f36d17d-74aa-4b7d-bf6c-137fbfd6d5cc)
 
-** DECREASE SPEED (slow-down) to TURN LEFT **
+DECREASE SPEED (slow-down) to TURN LEFT
+
 ![slowdown_turnleft](https://github.com/user-attachments/assets/7829d553-bdd5-4986-af72-17c35eba0928)
