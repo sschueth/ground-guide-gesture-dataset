@@ -1,7 +1,4 @@
 # ground-guide-gesture-dataset
-**Attention! Stop!**
-
-![attention_stop](https://github.com/user-attachments/assets/4edc491f-f8db-4bca-949b-246e213a7db8)
 
 Welcome to the `ground-guide-gesture-dataset` repository. This repo contains the Ground Guide Gesture Dataset implemented as a custom PyTorch Dataset.
 
@@ -11,6 +8,10 @@ The dataset was created with 74 videos from 5 participants making 10 gestures fr
 <img width="422" alt="image" src="https://github.com/user-attachments/assets/0564657f-d946-4aac-914f-2e50b783107a">
 
 ### Examples
+
+ATTENTION to STOP
+
+![attention_stop](https://github.com/user-attachments/assets/4edc491f-f8db-4bca-949b-246e213a7db8)
 
 STANDBY to START ENGINE (crank)
 
